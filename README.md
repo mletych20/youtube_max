@@ -8,3 +8,4 @@
 - Normalize.css
 - SVG Sprites
 - Google Fonts
+- Swiperjs
