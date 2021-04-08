@@ -4,6 +4,7 @@
 ##  Используемые технологии
 - HTML
 - CSS
+- JS
 - Normalize.css
 - SVG Sprites
 - Google Fonts
